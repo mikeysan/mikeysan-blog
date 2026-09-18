@@ -5,6 +5,7 @@ date: 2026-04-12T17:50:41.145Z
 lastmod: 2026-09-18T13:13:53+01:00
 
 description: "The story behind Ogeka, an app for recurring tasks that never stay done. Set a cycle and it tracks what's due, pausing the countdown when your working day ends."
+summary: "The story behind Ogeka, an app for recurring tasks that never stay done. Set a cycle and it tracks what's due, pausing the countdown when your working day ends."
 
 cover:
   image: "1.jpg"

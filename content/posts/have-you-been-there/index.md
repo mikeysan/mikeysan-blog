@@ -5,6 +5,7 @@ date: 2023-02-15T18:22:12.676Z
 lastmod: 2026-09-18T13:13:32+01:00
 
 description: "Learning to code but keep losing momentum and starting over? You're not alone. What's helping me: find your why, join a community and learn in public."
+summary: "Learning to code but keep losing momentum and starting over? You're not alone. What's helping me: find your why, join a community and learn in public."
 subtitle: ""
 
 image: "1.jpg" 

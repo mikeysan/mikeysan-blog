@@ -5,6 +5,7 @@ date: 2025-08-05T10:02:49.760Z
 lastmod: 2026-09-18T13:13:46+01:00
 
 description: "Not every gap in African tech is a DEI issue. How to tell identity-based inequities from language, infrastructure and investor-hub gaps, and why it matters."
+summary: "Not every gap in African tech is a DEI issue. How to tell identity-based inequities from language, infrastructure and investor-hub gaps, and why it matters."
 subtitle: ""
 
 image: "1.jpg" 

@@ -5,6 +5,7 @@ date: 2025-06-17T11:23:42.621Z
 lastmod: 2026-09-18T13:13:44+01:00
 
 description: "How Travis Baldree, Andrea Parsneau and Heath Miller made The Primal Hunter, The Wandering Inn and He Who Fights With Monsters unforgettable audiobooks."
+summary: "How Travis Baldree, Andrea Parsneau and Heath Miller made The Primal Hunter, The Wandering Inn and He Who Fights With Monsters unforgettable audiobooks."
 subtitle: ""
 
 image: "1.jpg" 
