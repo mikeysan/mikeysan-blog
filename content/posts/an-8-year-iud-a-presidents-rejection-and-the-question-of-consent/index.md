@@ -22,6 +22,13 @@ images:
 aliases:
   - "/an-8-year-iud-a-presidents-rejection-and-the-question-of-consent-2500917f71b5"
 
+tags:
+  - research ethics
+  - informed consent
+  - global health
+  - contraception
+  - africa
+
 ---
 
 

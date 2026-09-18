@@ -16,6 +16,13 @@ images:
 aliases:
   - "/my-time-with-firejail-how-to-uninstall-without-blowing-up-your-system-0f1685396cc1"
 
+tags:
+  - firejail
+  - linux
+  - sandboxing
+  - arch linux
+  - firefox
+
 ---
 
 

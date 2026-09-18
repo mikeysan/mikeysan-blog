@@ -16,6 +16,13 @@ images:
 aliases:
   - "/dei-in-african-tech-whats-real-what-s-not-and-why-it-matters-047af0a41d30"
 
+tags:
+  - dei
+  - african tech
+  - women in tech
+  - startups
+  - venture capital
+
 ---
 
 

@@ -15,6 +15,13 @@ images:
 aliases:
   - "/manage-download-folder-using-python-1779be27a40f"
 
+tags:
+  - python
+  - automation
+  - coding
+  - productivity
+  - file management
+
 ---
 
 

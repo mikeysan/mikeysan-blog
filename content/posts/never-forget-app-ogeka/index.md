@@ -14,6 +14,14 @@ cover:
 
 aliases:
   - "/the-never-forget-app-ogeka-72fa3a88863c"
+
+tags:
+  - ogeka
+  - productivity
+  - task management
+  - devops
+  - sysadmin
+
 ---
 
 

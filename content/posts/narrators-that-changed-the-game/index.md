@@ -15,6 +15,12 @@ images:
 
 aliases:
   - "/narrators-that-changed-the-game-8c5a77c9cb4f"
+tags:
+  - audiobooks
+  - litrpg
+  - narrators
+  - fantasy
+  - book recommendations
 
 ---
 

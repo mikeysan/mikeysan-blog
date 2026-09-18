@@ -19,6 +19,13 @@ images:
 aliases:
   - "/have-you-been-there-8fc0a37085cc"
 
+tags:
+  - learning to code
+  - python
+  - coding
+  - motivation
+  - learning in public
+
 ---
 
 

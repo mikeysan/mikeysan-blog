@@ -15,6 +15,13 @@ images:
 aliases:
   - "/write-your-own-traceroute-tool-8f6b162a530e"
 
+tags:
+  - traceroute
+  - networking
+  - bash
+  - linux
+  - sysadmin
+
 ---
 
 

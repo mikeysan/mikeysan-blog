@@ -18,6 +18,13 @@ images:
 aliases:
   - "/the-dangers-of-a-society-that-no-longer-debates-c739c257b963"
 
+tags:
+  - debate
+  - critical thinking
+  - social media
+  - echo chambers
+  - democracy
+
 ---
 
 
