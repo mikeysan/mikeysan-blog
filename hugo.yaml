@@ -11,7 +11,6 @@ menu:
     - name: Tags
       url: /tags/
       weight: 20
-
     - name: Gallery
       url: https://500px.com/p/whoismikey
       weight: 30
