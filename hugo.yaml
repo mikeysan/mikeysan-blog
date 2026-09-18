@@ -2,3 +2,32 @@ baseURL: "https://mikeysan.co.uk/"
 languageCode: en-gb
 title: "Mikey's Spot"
 theme: PaperMod
+
+menu:
+  main:
+    - name: Posts
+      url: /posts/
+      weight: 10
+    - name: Gallery
+      url: https://500px.com/p/whoismikey
+      weight: 30
+
+params:
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: "Mikey's Spot"
+    Content: "Notes on Linux, networking, and whatever I'm building."
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/mikeysan"
+    - name: rss
+      url: "index.xml"
+    - name: X
+      url: "https://x.com/whoismikey"
+    - name: instagram
+      url: "https://www.instagram.com/whoismikey/"
