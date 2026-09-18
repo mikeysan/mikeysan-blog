@@ -84,9 +84,8 @@ find: ‘/run/user/1000/gvfs’: Permission denied
 
 All that noise at the top. Worse, `/proc/kcore` walks in at 140TB and takes the top slot — it's a virtual window onto system memory, not a file on your disk, and it will never be the thing you're looking for.
 
-![A computer screen showing lines of data](3.jpg)
+![annotated terminal output highlighting the noise](3.jpg)
 
-*Photo by [Lukas](https://unsplash.com/@lukash?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-lot-of-data-on-it-MU8w72PzRow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 The obvious fix is to prune the offending paths by name:
 
