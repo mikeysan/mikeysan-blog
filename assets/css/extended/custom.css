@@ -1,0 +1,8 @@
+:root {
+  --main-width: 900px;
+  --nav-width: 1100px;
+}
+
+.first-entry {
+  min-height: 160px;
+}
