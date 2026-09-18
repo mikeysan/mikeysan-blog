@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2023-03-28T08:50:09.206Z
 lastmod: 2026-09-18T13:13:38+01:00
 
-description: "An experimental script to keep my Download directory clear of clutter."
+description: "Tame a cluttered Downloads folder with a short Python script that uses os, shutil and time to move files older than 30 days into a to_delete folder."
 subtitle: ""
 
 image: "1.jpg" 

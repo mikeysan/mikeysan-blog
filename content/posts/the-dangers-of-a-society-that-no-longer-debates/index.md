@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2024-08-14T07:31:33.294Z
 lastmod: 2026-09-18T16:26:09+01:00
 
-description: ""
+description: "Echo chambers and engagement-driven algorithms are eroding open debate. What that costs democracy, communities and personal growth, and how we can revive it."
 subtitle: ""
 
 image: "1.jpg" 

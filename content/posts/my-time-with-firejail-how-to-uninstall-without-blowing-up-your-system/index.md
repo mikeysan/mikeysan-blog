@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2025-09-22T16:31:10.345Z
 lastmod: 2026-09-18T13:13:51+01:00
 
-description: ""
+description: "Firejail's firecfg sandboxed my whole desktop, screenshots included. How to uninstall it cleanly on Arch-based Linux without leaving broken symlinks behind."
 subtitle: "Step 1: Clean All Symlinks (Critical)"
 
 image: "1.png" 

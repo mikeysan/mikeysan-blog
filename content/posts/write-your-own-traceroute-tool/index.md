@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2023-05-04T13:05:58.243Z
 lastmod: 2026-09-18T13:13:39+01:00
 
-description: ""
+description: "Can't install traceroute on a locked-down Linux system? Build your own in Bash with ping and increasing TTL values, then test, troubleshoot and extend it."
 subtitle: ""
 
 image: "1.jpg" 

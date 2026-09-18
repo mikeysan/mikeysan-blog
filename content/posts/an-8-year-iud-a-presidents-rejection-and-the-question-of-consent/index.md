@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2025-08-12T16:55:57.039Z
 lastmod: 2026-09-18T13:13:48+01:00
 
-description: "What happens when a President says no?"
+description: "A viral claim that Namibia rejected an 8-year IUD trial proved false, but the question it raised stands: who consents to, and benefits from, research in Africa?"
 
 
 cover:
