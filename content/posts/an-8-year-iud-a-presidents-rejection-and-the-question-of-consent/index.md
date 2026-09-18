@@ -4,10 +4,14 @@ author: "Mikey San"
 date: 2025-08-12T16:55:57.039Z
 lastmod: 2026-09-18T13:13:48+01:00
 
-description: ""
-subtitle: ""
+description: "What happens when a President says no?"
 
-image: "1.jpg" 
+
+cover:
+  image: "1.jpg"
+  alt: ""
+  relative: true 
+
 images:
  - "1.jpg"
  - "2.png"

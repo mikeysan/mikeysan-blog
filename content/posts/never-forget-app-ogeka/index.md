@@ -4,20 +4,18 @@ author: "Mikey San"
 date: 2026-04-12T17:50:41.145Z
 lastmod: 2026-09-18T13:13:53+01:00
 
-description: ""
-subtitle: "The story behind the Ogeka app"
+description: "The story behind the Ogeka app"
 
-
-images:
- - "1.jpg"
+cover:
+  image: "1.jpg"
+  alt: "The never forget app — Ogeka"
+  relative: true
 
 aliases:
-  - "/https://medium.com/@whoismikey/the-never-forget-app-ogeka-72fa3a88863c"
-
+  - "/the-never-forget-app-ogeka-72fa3a88863c"
 ---
 
 
-### The story behind the Ogeka app
 
 — -
 
