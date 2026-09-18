@@ -26,7 +26,9 @@ A disk fills up. You need to know what's eating it, and you need to know now. Th
 
 That's roughly where I found myself recently: digging through search results for the hundredth time, taking the good bits from each. What follows is the result. Partly for anyone else who lands here, mostly as a post-it note for myself.
 
-![Placeholder: terminal showing a full disk warning](2.jpg)
+![Monitor displaying lines of code](1.jpg)
+
+*Photo by [Ilya Pavlov](https://unsplash.com/@ilyapavlov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ## The quick one
 
