@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2023-02-15T18:22:12.676Z
 lastmod: 2026-09-18T13:13:32+01:00
 
-description: ""
+description: "The struglle of motivation. Is it just a me problem?"
 subtitle: ""
 
 image: "1.jpg" 

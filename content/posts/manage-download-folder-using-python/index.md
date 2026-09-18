@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2023-03-28T08:50:09.206Z
 lastmod: 2026-09-18T13:13:38+01:00
 
-description: ""
+description: "An experimental script to keep my Download directory clear of clutter."
 subtitle: ""
 
 image: "1.jpg" 

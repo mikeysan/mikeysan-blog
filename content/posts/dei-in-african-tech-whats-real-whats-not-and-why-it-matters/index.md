@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2025-08-05T10:02:49.760Z
 lastmod: 2026-09-18T13:13:46+01:00
 
-description: ""
+description: "DEI in Africa. Seriously?"
 subtitle: ""
 
 image: "1.jpg" 

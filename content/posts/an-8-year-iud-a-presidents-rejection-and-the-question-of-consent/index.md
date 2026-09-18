@@ -10,7 +10,8 @@ description: "What happens when a President says no?"
 cover:
   image: "1.jpg"
   alt: ""
-  relative: true 
+  relative: true
+  hiddenInList: true 
 
 images:
  - "1.jpg"
