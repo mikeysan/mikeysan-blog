@@ -19,8 +19,8 @@ params:
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: "Mikey's Spot"
-    Content: "Notes on Linux, networking, and whatever I'm building."
+    Title: "Hi, I'm Mikey"
+    Content: "Notes on Linux, networking, random thoughts, and whatever I'm building."
 
   socialIcons:
     - name: github
