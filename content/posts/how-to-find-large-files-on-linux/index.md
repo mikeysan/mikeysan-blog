@@ -148,7 +148,7 @@ $ search
 11531 ./users-following/users-following-0001.html
 ```
 
-![Placeholder: the search alias running in a terminal](4.jpg)
+![the search alias running in a terminal](4.jpg)
 
 Defined that way it dies with your shell session. To keep it, add the line to your shell's config file:
 
