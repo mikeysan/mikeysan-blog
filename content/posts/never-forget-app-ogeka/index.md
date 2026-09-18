@@ -4,7 +4,7 @@ author: "Mikey San"
 date: 2026-04-12T17:50:41.145Z
 lastmod: 2026-09-18T13:13:53+01:00
 
-description: "The story behind the Ogeka app"
+description: "The story behind the Ogeka app."
 
 cover:
   image: "1.jpg"
