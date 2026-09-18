@@ -17,7 +17,6 @@ aliases:
 
 ---
 
-### Narrators That Changed the Game 🎧
 
 ![](1.jpg)
 

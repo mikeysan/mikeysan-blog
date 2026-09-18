@@ -16,7 +16,6 @@ aliases:
 
 ---
 
-### The never forget app — Ogeka
 
 ### The story behind the Ogeka app
 

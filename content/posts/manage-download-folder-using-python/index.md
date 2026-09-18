@@ -16,7 +16,6 @@ aliases:
 
 ---
 
-### Manage Download Folder using Python
 
 ![](1.jpg)
 

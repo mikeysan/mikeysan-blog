@@ -19,7 +19,6 @@ aliases:
 
 ---
 
-### The Dangers of a Society that No Longer Debates
 
 ![A group of women sitting in diner style seats listening to a speaker holding a microphone](1.jpg)
 

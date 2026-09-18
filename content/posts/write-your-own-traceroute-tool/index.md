@@ -16,7 +16,6 @@ aliases:
 
 ---
 
-### Write Your Own Traceroute Tool
 
 ![](1.jpg)
 

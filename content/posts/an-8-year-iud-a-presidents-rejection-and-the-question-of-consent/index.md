@@ -18,7 +18,6 @@ aliases:
 
 ---
 
-### An 8-Year IUD, a President’s Rejection — and the Question of Consent
 
 By Mikey San — 12 August 2025
 

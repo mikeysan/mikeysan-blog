@@ -17,7 +17,6 @@ aliases:
 
 ---
 
-### DEI in African Tech: What’s Real, What’s Not, and Why It Matters
 
 ![](1.jpg)
 

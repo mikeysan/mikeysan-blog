@@ -17,7 +17,6 @@ aliases:
 
 ---
 
-### My Time with Firejail: How to Uninstall Without Blowing Up Your System
 
 ![](1.png)
 

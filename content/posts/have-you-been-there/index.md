@@ -20,7 +20,6 @@ aliases:
 
 ---
 
-### Have You Been There?
 
 ![Computer screen with color-coded programming language](1.jpg)
 
