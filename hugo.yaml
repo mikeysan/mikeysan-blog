@@ -20,6 +20,8 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  cover:
+    hiddenInList: true
 
   homeInfoParams:
     Title: "Hi, I'm Mikey"

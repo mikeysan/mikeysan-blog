@@ -12,7 +12,6 @@ cover:
   image: "1.jpg"
   alt: ""
   relative: true
-  hiddenInList: true 
 
 images:
  - "1.jpg"
