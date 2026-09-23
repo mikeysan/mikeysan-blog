@@ -133,7 +133,7 @@ Every time I come back to Docker I rediscover the same handful of things. So the
 
 **Disk fills up quietly.** Stopped containers, dangling images and BuildKit's cache all accumulate. `docker system df` shows you the damage, `docker system prune` clears the obvious things, and `docker builder prune` handles the cache.
 
-![Terminal output from docker system df, showing reclaimable space across images, containers, local volumes and build cache.](https://claude.ai/chat/4.jpg)
+![Terminal output from docker system df, showing reclaimable space across images, containers, local volumes and build cache.](4.svg)
 
 **Logs grow forever.** The default `json-file` driver writes container output to disk with no rotation configured. A chatty container on a small VPS will fill the volume and take the host with it. Set `max-size` and `max-file`, either in the daemon config or per service.
 
